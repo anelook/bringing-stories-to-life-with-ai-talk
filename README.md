@@ -2,6 +2,7 @@
 
 ### Stardew Valley experiment:
 - [Stardew Valley prototype repo](https://github.com/anelook/stardew-villagers)
+- [Stardew Valley prototype repo Python](https://github.com/anelook/stardew-village-kafka-python)
 - [Learn more about Kafka & Flink](https://developer.confluent.io/)
 
 ### Collection of various papers on LLM Agents:
