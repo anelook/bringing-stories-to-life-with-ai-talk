@@ -20,6 +20,7 @@
 - [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/abs/2505.00675)
 - [Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models](https://arxiv.org/abs/2505.04921)
 - [TinyTroupe](https://github.com/microsoft/TinyTroupe)
+- [Microsoft AI Diagnostic Orchestrator](https://arxiv.org/pdf/2506.22405)
 
 ### Confluent resources on using Apache Kafka and Apache Flink for AI
 - [Flink AI: Hands-On VECTOR_SEARCH()—Search a Vector Database with Confluent Cloud for Apache Flink®](https://www.confluent.io/blog/flink-ai-rag-with-federated-search/)
